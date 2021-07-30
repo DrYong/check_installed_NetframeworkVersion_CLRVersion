@@ -2,7 +2,7 @@
 
 Download release:
 
-https://github.com/DrYong/check_installed_NetframeworkVersion_CLRVersion/blob/main/check_installed_NetframeworkVersion_CLRVersion/bin/Release/check_installed_NetframeworkVersion_CLRVersion.exe
+https://dryong.github.io/check_installed_NetframeworkVersion_CLRVersion.zip
 
 
 build with .net 4.0
